@@ -3,6 +3,9 @@ CU-CSCI3308-CIPractice
 
 Assignment to practice the use of continuous integration tools.
 
+### Modified By:
+Shane Kirkley
+
 ### Author
 Andy Sayler  
 Univerity of Colorado  
